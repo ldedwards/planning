@@ -1,0 +1,28 @@
+Transfer Learning
+
+Causal Inference
+  Source: https://ftp.cs.ucla.edu/pub/stat_ser/r350.pdf
+  Source: https://www.wired.com/story/ai-pioneer-algorithms-understand-why/
+  Source: https://arxiv.org/pdf/1901.10912.pdf
+
+Reinforcement Learning
+
+Transformer Architecture
+  Source: https://huggingface.co/models
+  Source: https://github.com/huggingface/transformers
+
+Graph Neural Networks
+  Source: https://www.slideshare.net/tonets/pdpta19ohue
+  
+Model explainability
+  Source:  https://arxiv.org/pdf/1910.06358.pdf
+  Source: https://arxiv.org/pdf/2006.01272.pdf
+
+Language models
+- used for protein properties prediction - how can this be applied to financial domain?
+
+Federated learning
+
+
+Contextual assistants
+  https://rasa.com
